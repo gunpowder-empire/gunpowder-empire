@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gunpowder-empire
+- 👀 I’m interested in python programming.
+- 🌱 I’m currently learning it.
+- 💞️ I’m looking to collaborate on automation systems.
+- 📫 How to reach me: here on github.
